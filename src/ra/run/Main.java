@@ -34,7 +34,7 @@ public class Main {
                 case 5:
                     search(listBook, scanner);
                     break;
-                case 0:
+                case 7:
                     System.exit(7);
                     break;
                 case 6:
